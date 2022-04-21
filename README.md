@@ -24,10 +24,7 @@ Used libaries:
 
 
 #### machine learning
-- sklearn.svm import LinearSVC
-from sklearn.naive_bayes import BernoulliNB, MultinomialNB
-from sklearn.linear_model import LogisticRegression
-from sklearn.neighbors import KNeighborsClassifier
+- sklearn
 
 **Used models:**
 - LinearSVC
