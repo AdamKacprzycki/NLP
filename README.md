@@ -8,7 +8,7 @@ Enjoy discovering my project! I hope you will find it usefull and interesting :)
 
 **IDE:** Jupyter Notebook <3
 
-**data** <- IMDB reviews: https://www.kaggle.com/datasets/columbine/imdb-dataset-sentiment-analysis-in-csv-format
+**data** <- IMDB reviews: [imdb_data](https://www.kaggle.com/datasets/columbine/imdb-dataset-sentiment-analysis-in-csv-format)
 
 **model evaluation:** accuracy metric
 
